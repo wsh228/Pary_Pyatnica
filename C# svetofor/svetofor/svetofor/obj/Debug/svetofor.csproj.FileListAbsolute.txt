@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\obj\Debug\svetofor.Form1.resources
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\obj\Debug\svetofor.Properties.Resources.resources
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\obj\Debug\svetofor.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\bin\Debug\svetofor.exe
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\bin\Debug\svetofor.pdb
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\obj\Debug\svetofor.exe
+C:\Users\student\Desktop\DoWaga\svetofor\svetofor\obj\Debug\svetofor.pdb
